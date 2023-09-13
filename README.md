@@ -1,6 +1,6 @@
 # SLİDER
 
-> **Live Link:** [https://bla.com](https://bla.com)
+> **Live Link:** 
 
 ![][img1]
 
@@ -20,7 +20,7 @@
 
 > ### Project Link
 >
-> [**https://bla.com**][projectLink]
+>
 
 ## Contact
 
